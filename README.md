@@ -7,7 +7,8 @@ Aquest projecte és una adaptació d'un projecte anterior que vam desenvolupar, 
 INSTAL·LACIÓ
 Per instal·lar el projecte, haurem de:
 - Descarregar l'arxiu ZIP de tot el projecte
-- Descomprimir l’arxiu dins del nostre servidor apache2
+- Descomprimir l'arxiu "dist.zip" ja que aquest es el que conte tot el projecte optimitzat
+- Una vegada que el tinguem descomprés, haurem de asegurarnos que la carpeta "images" estigui dos nivells darrera de el nostre directori on tenim el projecte, aixo per tal de que les imatges carreguin de manera correcte
 - Enjoy
 
 ÚS
